@@ -40,5 +40,7 @@ that isn't on the Home Screen after 7 days unused, so use it as a Home Screen ap
 
 ## Deploy and tier
 
-Not deployed yet. Local git only (2026-11-08). Unlisted in `automation/tiers.json`, so tier1:
-work on `claude/*` branches, and Chris merges.
+Live at https://mrsuperchris.github.io/gongfu/ from GitHub Pages, legacy build, source **master /docs**
+(repo MrSuperChris/gongfu, public, created 2026-11-08; live files checked against the committed blobs
+the same day). A push to master is live within a minute or two. Unlisted in `automation/tiers.json`,
+so tier1: work on `claude/*` branches, and Chris merges.
